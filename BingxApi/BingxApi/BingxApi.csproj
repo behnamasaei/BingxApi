@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackageId>83fab069fdb7412e837da9d95053bb8e</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Behnam_Asaei</Authors>
+		<Company>behnamasaei@gmail.com</Company>
+	</PropertyGroup>
+
+</Project>
