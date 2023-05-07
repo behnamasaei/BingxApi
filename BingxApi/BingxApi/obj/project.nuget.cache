@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k3bzQ5tFq2jo0IYVc4UKcXL+mNYWi/MbImVSMnO8uURw5LpQh+TsZk6HanIcDhY++yvGKIID0d0XOoXbmTPgfQ==",
+  "dgSpecHash": "RS+nPIlg3RxQBIShGR2vjs6ZP5U8U7QX9gCL7jVeCP6qkoxT60is3VTcXJFQiq6adK5uhzY5qLZPmJmntSj0kA==",
   "success": true,
   "projectFilePath": "H:\\BingxApi\\BingxApi\\BingxApi\\BingxApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\behnam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\behnam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

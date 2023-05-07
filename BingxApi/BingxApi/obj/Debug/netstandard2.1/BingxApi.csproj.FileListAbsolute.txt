@@ -1,0 +1,9 @@
+H:\BingxApi\BingxApi\BingxApi\bin\Debug\netstandard2.1\BingxApi.deps.json
+H:\BingxApi\BingxApi\BingxApi\bin\Debug\netstandard2.1\BingxApi.dll
+H:\BingxApi\BingxApi\BingxApi\bin\Debug\netstandard2.1\BingxApi.pdb
+H:\BingxApi\BingxApi\BingxApi\obj\Debug\netstandard2.1\BingxApi.AssemblyInfoInputs.cache
+H:\BingxApi\BingxApi\BingxApi\obj\Debug\netstandard2.1\BingxApi.AssemblyInfo.cs
+H:\BingxApi\BingxApi\BingxApi\obj\Debug\netstandard2.1\BingxApi.csproj.CoreCompileInputs.cache
+H:\BingxApi\BingxApi\BingxApi\obj\Debug\netstandard2.1\BingxApi.dll
+H:\BingxApi\BingxApi\BingxApi\obj\Debug\netstandard2.1\BingxApi.pdb
+H:\BingxApi\BingxApi\BingxApi\obj\Debug\netstandard2.1\BingxApi.csprojAssemblyReference.cache
